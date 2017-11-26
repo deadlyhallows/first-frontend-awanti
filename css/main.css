@@ -1,27 +1,2 @@
-.header{display:flex;}
-.col-1{width:8.33%;}
-.col-6{width:50%;}
-.logo{ margin-right:400px;
-       margin-left:400px;
-       padding-right:100px;
-     }
-.headertext{
-             padding-top:50px;
-             color:#747704;}
-*{font-family:'Montserrat', sans-serif;
-  font-weight:lighter;
-  line-height:8px;
-   }
-.midimage{margin-left:400px;}
-.imgdes{margin-left:400px;}
-.images{display:flex;}
-.image1{margin-left:400px;
-        margin-right:25px;}
-.image2{margin-right:25px;}
-.image3{margin-right:25px;}
-.names{margin-left:110px;
-       color:#747704;
-         line-height:8px;}
-.imgdes{color:#BCBBBB;}
 
 
