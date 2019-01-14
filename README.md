@@ -7,9 +7,9 @@ different features and elements of HTML and CSS.
 
 Requirement
 -----------
- * HTML5 .
+ * HTML5 
  
  Prequisites
  -----------
- * HTML5 ;
- * CSS .
+ * HTML5 
+ * CSS 
